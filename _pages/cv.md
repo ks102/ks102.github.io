@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* M.S. degree, Aeronautics and Astronautics, 2019, Seattle, WA
-* B.S. degree, Mathematics, Muskingum University, 2017, New Concord, OH
-* Coursework, Industrial and Systems Engineering, Kanagawa, Japan
+* M.S. degree, *Aeronautics and Astronautics', 2019, Seattle, WA
+* B.S. degree, *Mathematics', Muskingum University, 2017, New Concord, OH
+* Coursework, *Industrial and Systems Engineering', Kanagawa, Japan
 
 Employment History
 ======
-* R&D Engineer, Teijin Limited, Technical Development Department, Carbon Fiber Business Unit
+* R&D Engineer, **Teijin Limited**, Technical Development Department, Carbon Fiber Business Unit
   
 Skills
 ======
