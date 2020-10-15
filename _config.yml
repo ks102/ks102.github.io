@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kenta Suzuki / Personal Website"
+title                    : "Kenta Suzuki"
 title_separator          : "-"
 name                     : &name "Kenta Suzuki"
 description              : &description "personal description"
