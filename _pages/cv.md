@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* M.S. degree, *Aeronautics and Astronautics*, 2019, Seattle, WA
-* B.S. degree, *Mathematics*, Muskingum University, 2017, New Concord, OH
-* Coursework, *Industrial and Systems Engineering*, Kanagawa, Japan
+* M.S. degree, *Aeronautics and Astronautics*, **University of Washington**, 2019, Seattle, WA
+* B.S. degree, *Mathematics*, **Muskingum University**, 2017, New Concord, OH
+* Coursework, *Industrial and Systems Engineering*, **Aoyama Gakuin UNiversity**, Kanagawa, Japan
 
 Employment History
 ======
