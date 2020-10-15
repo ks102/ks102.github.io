@@ -17,7 +17,7 @@ Education
 
 Employment History
 ======
-*Teijin Limited, Technical Development Department, Carbon Fiber Business Unit
+* R&D Engineer, Teijin Limited, Technical Development Department, Carbon Fiber Business Unit
   
 Skills
 ======
