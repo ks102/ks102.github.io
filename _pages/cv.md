@@ -23,3 +23,4 @@ Expertise
 ======
 * Numerical analysis (FEM, IgA) of advanced materials and structures
 * Optimization problem in fiber reinforced plastics (FRP)
+
