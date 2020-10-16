@@ -8,7 +8,7 @@ author_profile: true
 Under cnstruction
 
 1. **K. Suzuki**, S. E. Phenisee, and M. Salviato, An isogeometric framework for the modeling of curvilinear
-anisotropic media, 2020, *under review*, [arXiv](https://arxiv.org/abs/2009.10230).
+anisotropic media, 2020, *under review*, doi: [https://arxiv.org/abs/2009.10230](https://arxiv.org/abs/2009.10230).
 
 <!--
 {% if author.googlescholar %}
