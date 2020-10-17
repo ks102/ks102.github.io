@@ -17,7 +17,7 @@ Education
 
 Employment History
 ======
-* R&D Engineer, **Teijin Limited**, Technical Development Department, Carbon Fiber Business Unit
+* R&D Engineer, **Teijin Limited**, Technical Development Department, Carbon Fiber Business Unit, Nov. 2019 - Present
 
 Expertise
 ======
